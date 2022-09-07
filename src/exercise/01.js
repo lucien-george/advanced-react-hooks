@@ -4,8 +4,8 @@
 import * as React from 'react'
 
 // function countReducer(state, action) {
-//   // if there are multiple keys we only override the values for the keys that are present in the action.
-//   // we first check if the aciton is a function or a value.
+// if there are multiple keys we only override the values for the keys that are present in the action.
+// we first check if the aciton is a function or a value.
 
 //   return {
 //     ...state,
